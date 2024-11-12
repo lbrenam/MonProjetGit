@@ -1,0 +1,5 @@
+# Ignorer les fichiers log
+*.log
+
+# Ignorer un dossier temporaire spécifique
+dossier_temporaire/
