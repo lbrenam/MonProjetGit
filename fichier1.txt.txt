@@ -3,4 +3,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vi
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nullam auctor, eros eu tincidunt vehicula, odio magna malesuada velit, a viverra nunc metus in nisi. Integer in odio ut metus hendrerit consectetur nec et mi. Nam
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nullam auctor, eros eu tincidunt vehicula, odio magna malesuada velit, a viverra nunc metus in nisi. Integer in odio ut metus hendrerit consectetur nec et mi. Nam
+git checkout nouvelle-fonctionnalite 
